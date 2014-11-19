@@ -1,4 +1,4 @@
 <?php
-echo 'hello';
-echo 'how are you';
+echo 'this line changed';
+echo 'new line added';
 ?>
